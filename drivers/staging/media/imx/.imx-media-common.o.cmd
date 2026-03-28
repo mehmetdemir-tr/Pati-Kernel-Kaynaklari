@@ -1,0 +1,1 @@
+cmd_drivers/staging/media/imx/imx-media-common.o := ccache aarch64-linux-gnu-ld  -EL  -maarch64elf -z noexecstack     -r -o drivers/staging/media/imx/imx-media-common.o @drivers/staging/media/imx/imx-media-common.mod 

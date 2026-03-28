@@ -1,0 +1,1 @@
+cmd_drivers/staging/media/deprecated/saa7146/saa7146/built-in.a := rm -f drivers/staging/media/deprecated/saa7146/saa7146/built-in.a;  ccache aarch64-linux-gnu-ar cDPrST drivers/staging/media/deprecated/saa7146/saa7146/built-in.a

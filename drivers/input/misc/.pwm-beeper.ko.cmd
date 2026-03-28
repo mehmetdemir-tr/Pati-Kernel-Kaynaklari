@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/pwm-beeper.ko := ccache aarch64-linux-gnu-ld -r  -EL  -maarch64elf -z noexecstack   --build-id=sha1  -T scripts/module.lds -o drivers/input/misc/pwm-beeper.ko drivers/input/misc/pwm-beeper.o drivers/input/misc/pwm-beeper.mod.o;  true
